@@ -1,6 +1,8 @@
 # Desafio 20 Dias de Código 🚀
 
-Este repositório foi criado para documentar minha participação no **Desafio 20 Dias de Código**, uma iniciativa do **Mais Meninas Tech (Meninas em Tech)**, com o objetivo de fortalecer minha relação com a programação por meio da **constância e prática diária**. Ao longo dos 20 dias, registrarei minhas soluções e aprendizados, dedicando cerca de **30 minutos por dia** para evoluir em lógica, resolução de problemas e desenvolvimento em **Python**.
+Este repositório foi criado para documentar minha participação no **Desafio 20 Dias de Código**, uma iniciativa do **Mais Meninas Tech**, com o objetivo de fortalecer minha relação com a programação por meio da **constância e prática diária**. Ao longo dos 20 dias, registrarei minhas soluções e aprendizados, dedicando cerca de **30 minutos por dia** para evoluir em lógica, resolução de problemas e desenvolvimento em **Python**.
+
+![Banner do desafio 20 dias de código](imagens/banner%20desafio%2020%20dias.png)
 
 ## Objetivo
 Criar o hábito de programar todos os dias e fortalecer a base de lógica, resolução de problemas e escrita de código limpo.
