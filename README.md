@@ -15,7 +15,7 @@ Criar o hábito de programar todos os dias e fortalecer a base de lógica, resol
 ## Resumo por dia
 - **Dia 01** – Hello World (Beecrowd **Bee 1000**) 
 - **Dia 02** – Extremamente Básico (Beecrowd **Bee 1001**)
-- **Dia 03** – _(em andamento)_
+- **Dia 03** – Área do Círculo (Beecrowd **Bee 1002**)
 - **Dia 04** – _(em andamento)_
 - **Dia 05** – _(em andamento)_
 - **Dia 06** – _(em andamento)_
