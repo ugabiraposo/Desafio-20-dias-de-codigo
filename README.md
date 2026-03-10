@@ -18,9 +18,9 @@ Criar o hábito de programar todos os dias e fortalecer a base de lógica, resol
 - **Dia 03** – Área do Círculo (Beecrowd **Bee 1002**)
 - **Dia 04** – Soma Simples (Beecrowd **Bee 1003**)
 - **Dia 05** – Produto Simples (Beecrowd **Bee 1004**)
-- **Dia 06** – _(em andamento)_
-- **Dia 07** – _(em andamento)_
-- **Dia 08** – _(em andamento)_
+- **Dia 06** – Média (Beecrowd **Bee 1005**)
+- **Dia 07** – Média 2 (Beecrowd **Bee 1006**)
+- **Dia 08** – Diferença (Beecrowd **Bee 1007**)
 - **Dia 09** – _(em andamento)_
 - **Dia 10** – _(em andamento)_
 - **Dia 11** – _(em andamento)_
