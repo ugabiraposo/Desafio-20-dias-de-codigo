@@ -21,7 +21,7 @@ Criar o hábito de programar todos os dias e fortalecer a base de lógica, resol
 - **Dia 06** – Média (Beecrowd **Bee 1005**)
 - **Dia 07** – Média 2 (Beecrowd **Bee 1006**)
 - **Dia 08** – Diferença (Beecrowd **Bee 1007**)
-- **Dia 09** – _(em andamento)_
+- **Dia 09** – Salário (Beecrowd **Bee 1008**)
 - **Dia 10** – _(em andamento)_
 - **Dia 11** – _(em andamento)_
 - **Dia 12** – _(em andamento)_
