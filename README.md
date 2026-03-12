@@ -23,7 +23,7 @@ Criar o hábito de programar todos os dias e fortalecer a base de lógica, resol
 - **Dia 08** – Diferença (Beecrowd **Bee 1007**)
 - **Dia 09** – Salário (Beecrowd **Bee 1008**)
 - **Dia 10** – Salário com Bônus (Beecrowd **Bee 1009**)
-- **Dia 11** – _(em andamento)_
+- **Dia 11** – Cálculo Simples (Beecrowd **Bee 1010**)
 - **Dia 12** – _(em andamento)_
 - **Dia 13** – _(em andamento)_
 - **Dia 14** – _(em andamento)_
