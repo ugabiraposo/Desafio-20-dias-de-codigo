@@ -28,7 +28,7 @@ Criar o hábito de programar todos os dias e fortalecer a base de lógica, resol
 - **Dia 13** – Área (Beecrowd Bee 1012)
 - **Dia 14** – O Maior (Beecrowd Bee 1013)
 - **Dia 15** – Consumo (Beecrowd Bee 1014)
-- **Dia 16** – _(em andamento)_
+- **Dia 16** – Distância Entre Dois Pontos (Beecrowd Bee 1015)
 - **Dia 17** – _(em andamento)_
 - **Dia 18** – _(em andamento)_
 - **Dia 19** – _(em andamento)_
