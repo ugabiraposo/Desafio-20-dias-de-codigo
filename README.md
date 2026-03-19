@@ -30,7 +30,7 @@ Criar o hábito de programar todos os dias e fortalecer a base de lógica, resol
 - **Dia 15** – Consumo (Beecrowd Bee 1014)
 - **Dia 16** – Distância Entre Dois Pontos (Beecrowd Bee 1015)
 - **Dia 17** – Distância (Beecrowd Bee 1016)
-- **Dia 18** – _(em andamento)_
+- **Dia 18** – Gasto de Combustível (Beecrowd Bee 1017)
 - **Dia 19** – _(em andamento)_
 - **Dia 20** – _(em andamento)_
 
