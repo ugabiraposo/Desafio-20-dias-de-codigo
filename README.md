@@ -32,7 +32,7 @@ Criar o hábito de programar todos os dias e fortalecer a base de lógica, resol
 - **Dia 17** – Distância (Beecrowd Bee 1016)
 - **Dia 18** – Gasto de Combustível (Beecrowd Bee 1017)
 - **Dia 19** – Cédulas (Beecrowd Bee 1018)
-- **Dia 20** – _(em andamento)_
+- **Dia 20** – Conversão de Tempo (Beecrowd Bee 1019)
 
 ## Selos e Certificações
 
